@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Biji kopi">
+<rect width="400" height="300" fill="#e3e8df"/>
+<g fill="#3b2418">
+<ellipse cx="120" cy="110" rx="60" ry="40" transform="rotate(-30 120 110)"/>
+<ellipse cx="260" cy="90" rx="60" ry="40" transform="rotate(20 260 90)"/>
+<ellipse cx="190" cy="200" rx="60" ry="40" transform="rotate(-10 190 200)"/>
+<ellipse cx="310" cy="210" rx="55" ry="36" transform="rotate(40 310 210)"/>
+</g>
+<g fill="none" stroke="#e3e8df" stroke-width="5" stroke-linecap="round">
+<path d="M80 135q40-40 80-50" /><path d="M215 60q50 20 90 50"/><path d="M140 215q50-20 100-10"/><path d="M280 235q30-30 60-35"/>
+</g>
+</svg>
